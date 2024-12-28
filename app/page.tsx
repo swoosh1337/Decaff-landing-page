@@ -111,7 +111,7 @@ export default function LandingPage() {
 
       {/* App Screenshots */}
       <section className="container mx-auto px-4 py-24">
-        <h2 className="mb-12 text-center text-3xl font-bold">Beautiful & Intuitive Design</h2>
+        <h2 className="mb-12 text-center text-3xl font-bold text-[#8B4513]">Beautiful & Intuitive Design</h2>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           <div className="overflow-hidden rounded-3xl shadow-lg">
             <Image
