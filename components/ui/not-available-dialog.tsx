@@ -8,7 +8,6 @@ import {
   DialogDescription,
 } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button"
-import Link from "next/link"
 
 interface NotAvailableDialogProps {
   isOpen: boolean
@@ -16,7 +15,6 @@ interface NotAvailableDialogProps {
 }
 
 export function NotAvailableDialog({ isOpen, onClose }: NotAvailableDialogProps) {
-  // This will be the actual App Store link once the app is live
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
       <DialogContent className="sm:max-w-md">
