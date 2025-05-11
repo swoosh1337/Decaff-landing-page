@@ -9,7 +9,7 @@ import { Card, CardContent } from "@/components/ui/card"
 
 export default function LandingPage() {
   const handleAppStoreClick = () => {
-    window.open('https://www.apple.com/app-store/', '_blank', 'noopener,noreferrer')
+    window.open('https://apps.apple.com/us/app/decaff/id6739958581', '_blank', 'noopener,noreferrer')
   }
 
   return (
