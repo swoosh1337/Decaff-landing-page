@@ -80,7 +80,7 @@ const TermsOfService = () => {
         <ul className="list-disc list-inside ml-4 mb-4">
           <li>Decaff does not retain your raw caffeine intake or sleep pattern data.</li>
           <li>Your data is sent to our AI provider (currently Deepseek) for analysis of sleep patterns and caffeine intake patterns.</li>
-          <li>Please note that our AI provider may retain your data according to their own data retention policies. We encourage you to review Deepseek's privacy policy for more information.</li>
+          <li>Please note that our AI provider may retain your data according to their own data retention policies. We encourage you to review Deepseek&apos;s privacy policy for more information.</li>
         </ul>
       </section>
 
